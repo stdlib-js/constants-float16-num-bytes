@@ -90,8 +90,8 @@ console.log( FLOAT16_NUM_BYTES );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float32/num-bytes`][@stdlib/constants/float32/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a single-precision floating-point number.</span>
--   <span class="package-name">[`@stdlib/constants/float64/num-bytes`][@stdlib/constants/float64/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float32/num-bytes`][@stdlib/constants/float32/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/num-bytes`][@stdlib/constants/float64/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a double-precision floating-point number.</span>
 
 </section>
 
