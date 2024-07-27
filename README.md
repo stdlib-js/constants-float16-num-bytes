@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-num-bytes@esm/index.mjs';
+import FLOAT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-num-bytes@v0.2.2-esm/index.mjs';
 ```
 
 #### FLOAT16_NUM_BYTES
@@ -72,7 +72,7 @@ var bool = ( FLOAT16_NUM_BYTES === 2 );
 <body>
 <script type="module">
 
-import FLOAT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-num-bytes@esm/index.mjs';
+import FLOAT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-num-bytes@v0.2.2-esm/index.mjs';
 
 console.log( FLOAT16_NUM_BYTES );
 // => 2
