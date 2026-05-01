@@ -66,6 +66,7 @@
     "half-precision",
     "floating-point",
     "float",
+    "float16",
     "ieee754",
     "size",
     "sizeof",
